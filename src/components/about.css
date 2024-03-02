@@ -1,0 +1,15 @@
+.about-part {
+  margin: 30px auto;
+  width: 50%;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-me{
+    text-align: right;
+    direction: rtl;
+}
+
